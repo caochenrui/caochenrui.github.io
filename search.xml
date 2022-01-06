@@ -15,33 +15,6 @@
     </entry>
     
     
-    
-    <entry>
-      <title>typora-vue-theme主题介绍</title>
-      <link href="/2018/09/07/typora-vue-theme%E4%B8%BB%E9%A2%98%E4%BB%8B%E7%BB%8D/"/>
-      <url>/2018/09/07/typora-vue-theme%E4%B8%BB%E9%A2%98%E4%BB%8B%E7%BB%8D/</url>
-      
-        <content type="html"><![CDATA[<h2 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h2><ul><li>简单漂亮，文章内容美观易读</li><li>Material Design 设计</li><li>响应式设计，博客在桌面端、平板、手机等设备上均能很好的展现</li><li>首页轮播文章及每天动态切换 Banner 图片</li><li>瀑布流式的博客文章列表（文章无特色图片时会有 24 张漂亮的图片代替）</li><li>时间轴式的归档页</li><li>词云的标签页和雷达图的分类页</li><li>丰富的关于我页面（包括关于我、文章统计图、我的项目、我的技能、相册等）</li><li>可自定义的数据的友情链接页面</li><li>支持文章置顶和文章打赏</li><li>支持 MathJax</li><li>TOC 目录</li><li>可设置复制文章内容时追加版权信息</li><li>可设置阅读文章时做密码验证</li><li>Gitalk、Gitment、Valine 和 Disqus 评论模块（推荐使用 Gitalk）</li><li>集成了不蒜子统计、谷歌分析（Google Analytics）和文章字数统计等功能</li><li>支持在首页的音乐播放和视频播放功能</li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Typora </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
   
   
 </search>
